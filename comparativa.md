@@ -66,118 +66,119 @@ Cabe mencionar que el hecho de que algunos tengan mas Mpx que otros no los hace 
 ##### <span style="color:#4b0082">Motorola Moto X
 ###### Imagen capturada con HDR a contraluz
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/motox/HDRluz.jpg)
 
 ###### Imagen capturada con HDR a disposicion de la luz
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/motox/HDRfl.jpg)
 
 ###### Imagen capturada con HDR en entorno obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/motox/HDR.jpg)
 
 ###### Imagen capturada con flash en entorno obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/motox/flash.jpg)
 
 ###### Imagen capturada naturalmente a disposicion de la luz
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/motox/sn.jpg)
 
 
 ##### <span style="color:#4b0082">Samsung Galaxy Core "
 
 ###### Imagen capturada con flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/core2/core2f.jpeg)
 
 ###### Imagen capturada sin flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/core2/core2sf.jpeg)
 
 ###### Imagen capturada en ambiente obscuro sin flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/core2/core2o.jpeg)
 
 ###### Imagen capturada en ambiente obscuro con flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/core2/core2ocf.jpeg)
 
 ##### <span style="color:#4b0082">Lenovo K5
 
 ###### Imagen capturada con flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/lenovo/lenf.jpeg)
 
 ###### Imagen capturada sin flash flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/lenovo/lensf.jpeg)
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/lenovo/lenocf.jpeg)
 
 ###### Imagen capturada sin flash en ambiente obscuro 
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/lenovo/lenosf.jpeg)
 
 ##### <span style="color:#4b0082">Motorola Moto G4 Play
 
 ###### Imagen capturada con flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g4/g4cf.jpeg)
 
 ###### Imagen capturada sin flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g4/g4sf.jpeg)
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g4/g4of.jpeg)
 
 ###### Imagen capturada sin flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g4/g4osf.jpeg)
 
 ##### <span style="color:#4b0082">Motorola Moto G5
 
 ###### Imagen capturada con flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g5/g5fcf.jpeg)
 
 ###### Imagen capturada sin flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g5/g5sf.jpeg)
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g5/g5of.jpeg)
 
 ###### Imagen capturada sin flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/g5/g5osf.jpeg)
 
 ##### <span style="color:#4b0082">Alcatel Pixi 4
 
 ###### Imagen capturada con flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/alcatel/alcatelcf.jpeg)
 
 ###### Imagen capturada sin flash
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/alcatel/alcatelsf.jpeg)
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/alcatel/alcatelof.jpeg)
 
 ###### Imagen capturada sin flash en ambiente obscuro
 
-
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/alcatel/alcatelosf.jpeg)
 
 #### <span style="color:#4169E1">Conclusiones.
 
 El anterior Benchmarking consistio en comparar la calidad de las fotografias que pueden capturar los distintos dispositivos que se encuentran en el area de Dual de *Super Promociones de Acayucan* con el fin de determinar cual de ellos podria ser el mas apto para llevar a cabo las tareas requeridas en el area de diseño.
+Asi mismo la conclusion personal a la que se llega es que a pesar de sus diferentes caracteristicas, hay tres dispositivos que dependiendo del angulo o la disposicion de la luz con la que se cuente pueden ser elegidos para realizar la captura de imagenes,  los cuales son: **Motorola Moto X**,**Lenovo K5**,**Motorola Moto G5**. Asi mismo esta ultima desicion quedaria a opinion del encargado del area de diseño quien tendria que tomar mas aspectos en cuenta para determinar cual de los tres puede resultar mas optimo para llevar a cabo la captura de imagenes.
 
 
 
