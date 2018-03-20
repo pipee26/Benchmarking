@@ -23,22 +23,30 @@ de esta manera es como se decide hacer la comparativa de los dispositivos y asi 
 ###### <span style="color:#4b0082">Los dispositivos con los que cuenta el area son los siguientes: 
 
 *  <span style="color:#008B8B">Motorola Moto x
-@import "./celulares/m.jpg" {width="330px" height="250px"}
+ 
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/motox.png)
 
 * <span style="color:#008B8B">Samsung Galaxy core2
-@import "./celulares/core2.jpg" {width="300px" height="250px"}
+
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/core2.jpg)
 * <span style="color:#008B8B">Samsung A3
-@import "./celulares/a3.jpg" {width="330px" height="310px"}
+
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/a3.jpg)
 * <span style="color:#008B8B">Motorola G Forte
-@import "./celulares/gforte.jpg" {width="330px" height="270px"}
+ 
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/gforte.png)
 * <span style="color:#008B8B"> Lenovo K5
-@import "./celulares/k5.png" {width="330px" height="280px"}
+
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/k5.jpg)
 * <span style="color:#008B8B"> Motorola Moto G4 Play
-@import "./celulares/g4.jpg" {width="330px" height="270px"}
+ 
+ ![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/g4p.jpg)
 * <span style="color:#008B8B"> Motorola Moto G5
-@import "./celulares/g5.jpg" {width="300px" height="300px"}
+
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/mg5.jpg)
 * <span style="color:#008B8B"> Alcatel Pixi4
-@import "./celulares/p4.jpg" {width="330px" height="310px"}
+
+![](https://github.com/pipee26/Benchmarking/blob/master/Benchmarking/celulares/pixi4.png)
 ###### <span style="color:#4b0082">Tabla comparativa de funciones.
 
 |              | <span style="color:#8B008B">Motorola Moto X | <span style="color:#8B008B">Samsung Galaxy core2| <span style="color:#8B008B">Samsung A3 | <span style="color:#8B008B"> Motorola G Forte|<span style="color:#8B008B">Lenovo K5|<span style="color:#8B008B">Motorola Moto G4 Play|<span style="color:#8B008B">Motorola MotoG5|<span style="color:#8B008B">Alcatel Pixi4|
@@ -58,114 +66,114 @@ Cabe mencionar que el hecho de que algunos tengan mas Mpx que otros no los hace 
 ##### <span style="color:#4b0082">Motorola Moto X
 ###### Imagen capturada con HDR a contraluz
 
-@import "./motox/HDRluz.jpg" {width="300px" height="175px"}
+
 
 ###### Imagen capturada con HDR a disposicion de la luz
 
-@import "./motox/HDRfl.jpg" {width="300px" height="175px"}
+
 
 ###### Imagen capturada con HDR en entorno obscuro
 
-@import "./motox/HDR.jpg" {width="300px" height="175px"}
+
 
 ###### Imagen capturada con flash en entorno obscuro
 
-@import "./motox/flash.jpg" {width="300px" height="175px"}
+
 
 ###### Imagen capturada naturalmente a disposicion de la luz
 
-@import "./motox/sn.jpg" {width="300px" height="175px"}
+
 
 
 ##### <span style="color:#4b0082">Samsung Galaxy Core "
 
 ###### Imagen capturada con flash
 
-@import "./core2/core2f.jpeg" {width="300px" height="175px"}
+}
 
 ###### Imagen capturada sin flash
 
-@import "./core2/core2sf.jpeg" {width="300px" height="175px"}
+
 
 ###### Imagen capturada en ambiente obscuro sin flash
 
-@import "./core2/core2o.jpeg" {width="300px" height="175px"}
+
 
 ###### Imagen capturada en ambiente obscuro con flash
 
-@import "./core2/core2ocf.jpeg" {width="300px" height="175px"}
+
 
 ##### <span style="color:#4b0082">Lenovo K5
 
 ###### Imagen capturada con flash
 
-@import "./lenovo/lenf.jpeg" {width="300px" height="185px"}
+
 
 ###### Imagen capturada sin flash flash
 
-@import "./lenovo/lensf.jpeg" {width="300px" height="185px"}
+
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-@import "./lenovo/lenocf.jpeg" {width="300px" height="185px"}
+
 
 ###### Imagen capturada sin flash en ambiente obscuro 
 
-@import "./lenovo/lenosf.jpeg" {width="300px" height="185px"}
+
 
 ##### <span style="color:#4b0082">Motorola Moto G4 Play
 
 ###### Imagen capturada con flash
 
-@import "./g4/g4cf.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada sin flash
 
-@import "./g4/g4sf.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-@import "./g4/g4of.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada sin flash en ambiente obscuro
 
-@import "./g4/g4osf.jpeg" {width="300px" height="195px"}
+
 
 ##### <span style="color:#4b0082">Motorola Moto G5
 
 ###### Imagen capturada con flash
 
-@import "./g5/g5fcf.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada sin flash
 
-@import "./g5/g5sf.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-@import "./g5/g5of.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada sin flash en ambiente obscuro
 
-@import "./g5/g5osf.jpeg" {width="300px" height="195px"}
+
 
 ##### <span style="color:#4b0082">Alcatel Pixi 4
 
 ###### Imagen capturada con flash
 
-@import "./alcatel/alcatelcf.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada sin flash
 
-@import "./alcatel/alcatelsf.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada con flash en ambiente obscuro
 
-@import "./alcatel/alcatelof.jpeg" {width="300px" height="195px"}
+
 
 ###### Imagen capturada sin flash en ambiente obscuro
 
-@import "./alcatel/alcatelosf.jpeg" {width="300px" height="195px"}
+
 
 #### <span style="color:#4169E1">Conclusiones.
 
