@@ -89,7 +89,7 @@ Cabe mencionar que el hecho de que algunos tengan mas Mpx que otros no los hace 
 
 ###### Imagen capturada con flash
 
-}
+
 
 ###### Imagen capturada sin flash
 
