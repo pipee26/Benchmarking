@@ -178,7 +178,7 @@ Cabe mencionar que el hecho de que algunos tengan mas Mpx que otros no los hace 
 #### <span style="color:#4169E1">Conclusiones.
 
 El anterior Benchmarking consistio en comparar la calidad de las fotografias que pueden capturar los distintos dispositivos que se encuentran en el area de Dual de *Super Promociones de Acayucan* con el fin de determinar cual de ellos podria ser el mas apto para llevar a cabo las tareas requeridas en el area de diseño.
-Asi mismo la conclusion personal a la que se llega es que a pesar de sus diferentes caracteristicas, hay tres dispositivos que dependiendo del angulo o la disposicion de la luz con la que se cuente pueden ser elegidos para realizar la captura de imagenes,  los cuales son: **Motorola Moto X**,**Lenovo K5**,**Motorola Moto G5**. Asi mismo esta ultima desicion quedaria a opinion del encargado del area de diseño quien tendria que tomar mas aspectos en cuenta para determinar cual de los tres puede resultar mas optimo para llevar a cabo la captura de imagenes.
+Asi mismo la conclusion personal a la que se llega es que a pesar de sus diferentes caracteristicas, hay tres dispositivos que dependiendo del angulo o la disposicion de la luz con la que se cuente pueden ser elegidos para realizar la captura de imagenes,  los cuales son: **Motorola Moto X**, **Lenovo K5**, **Motorola Moto G5**. Asi mismo esta ultima desicion quedaria a opinion del encargado del area de diseño quien tendria que tomar mas aspectos en cuenta para determinar cual de los tres puede resultar mas optimo para llevar a cabo la captura de imagenes.
 
 
 
